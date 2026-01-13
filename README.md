@@ -5,6 +5,7 @@ Exploring the secrets of life using computational biology.
 
 Currently research fellow in the Stansfeld Lab at the University of Warwick, UK.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 ### Contacts & Media:
 
 __E-mail:__ barbara.abreu@warwick.ac.uk
@@ -25,6 +26,7 @@ __[Google Scholar]()__
 
 ### Publications:
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### CV:
 
